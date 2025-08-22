@@ -6,7 +6,7 @@ Hi, I'm **I-A** a smart contract security researcher.
 | № | Date      | Protocol                 | Findings | Type                | Competition Platform | More Details |
 |---|-----------|--------------------------|----------|---------------------|----------------------|--------------|
 | 1 | Jul 2025  | [**Allbridge Core Yield**](https://audits.sherlock.xyz/contests/1051) | **1M**   | DeFi / Yield        | **Sherlock**         |  **3rd place** 🥉|
-| 2 | Jul 2025      | [**Succinct**](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview/leaderboard)             | **1H** **2M**        | ZK / Infrastructure | **Cantina**          | **5th place** 🎖️|
+| 2 | Jul 2025      | [**Succinct**](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview/leaderboard)             | **1H**, **2M**        | ZK / Infrastructure | **Cantina**          | **5th place** 🎖️|
 
 ## 🐞 Bug Bounties
 | № | Date     | Protocol               | Findings     | Program Type | Status / More Details |
