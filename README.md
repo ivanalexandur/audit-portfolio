@@ -1,5 +1,5 @@
 # Ivan-Alexandur
-Hi, I'm **Ivan-Alexandur** a smart contract security researcher. 
+Hi, I'm **I-A** a smart contract security researcher. 
 
 ## 🏆 Public Contests Achievements
 
