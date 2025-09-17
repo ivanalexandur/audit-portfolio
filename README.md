@@ -11,7 +11,7 @@ Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Rec
 ## 🐞 Bug Bounties
 | № | Date     | Protocol               | Findings     | Program Type | Status / More Details |
 |---|----------|------------------------|--------------|--------------|-----------------------|
-| 1 | Aug 2025     | **Confidential**  | **1C, 1H**   | Bug Bounty   | Probably will share after public announcement. |
+| 1 | Aug 2025     | **Confidential**  | **1C**   | Bug Bounty   | Probably will share after public announcement. |
 
 ## 📸 Proof & Posts
 - [X Post – Succinct 5th place](https://x.com/ivanalexandurr/status/1958845637413241166)  
