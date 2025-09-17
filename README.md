@@ -1,5 +1,5 @@
 # I-A
-Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Recon mastermind program, working closley with AlexTheEntreprenerd and other SRs.
+Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Recon mastermind program, working closley with AlexTheEntreprenerd and other notable SRs.
 
 ## 🏆 Public Contests Achievements
 
