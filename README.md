@@ -1,6 +1,6 @@
 # I-A
 Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Recon mastermind program.
-## 🏆 Public Contests Achievements
+## 🏆 Public Contests 
 
 | № | Date      | Protocol                 | Findings | Type                | Competition Platform | More Details |
 |---|-----------|--------------------------|----------|---------------------|----------------------|--------------|
