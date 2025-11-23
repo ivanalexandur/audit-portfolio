@@ -1,5 +1,5 @@
 # I-A
-Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Recon mastermind program.
+Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehat<>[Recon](https://x.com/getreconxyz?s=21&t=UKLu6jqPGh38VVdk1er6QQ) mastermind program.
 ## 🏆 Public Contests 
 
 | № | Date      | Protocol                 | Findings | Type                | Competition Platform | More Details |
@@ -15,9 +15,11 @@ Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehats<>Rec
 | 1 | Aug 2025     | **Confidential**  | **1C**   | Bug Bounty   | - |
 
 ## 📸 Proof & Posts
-- [X Post – Succinct 5th place](https://x.com/ivanalexandurr/status/1958845637413241166)  
+- [X Post – Succinct 5th place](https://x.com/ivan_alexandur/status/1991649129177502062?s=46&t=UKLu6jqPGh38VVdk1er6QQ)  
 - [X Post – Allbridge 3rd place](https://x.com/ivanalexandurr/status/1958857334630797356)  
 - [Cantina Public Findings Shows The Critical](https://cantina.xyz/u/ivanalexandur)
+- [X Post – Super DCA](https://x.com/ivan_alexandur/status/1986123614765367462?s=46&t=UKLu6jqPGh38VVdk1er6QQ)
+- [X Post – Index Fun](https://x.com/ivan_alexandur/status/1990865675686957510?s=46&t=UKLu6jqPGh38VVdk1er6QQ)
 
 
 ## 🛠️ Focus & Tooling
