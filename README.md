@@ -11,6 +11,8 @@ DMs are open for audits and collaborations.
 | 2 | Jul 2025      | [**Succinct**](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview/leaderboard)             | **1H**, **2M**        | ZK / Infrastructure | **Cantina**          | **5th place** 🎖️|
 | 3 | Oct 2025      | [**Super DCA**](https://audits.sherlock.xyz/contests/1171)             | **2H**        | DeFi / Yield | **Sherlock**          | **17th place** 🎖️|
 | 4 | Oct 2025      | [**Index Fun**](https://audits.sherlock.xyz/contests/1197)             | **1M**        | DeFi / Yield | **Sherlock**          | **12th place** 🎖️|
+| 5 | Jan 2026      | [**GTE Perps and Launchpad**](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)             | **7H**, **3M**       | DeFi / Yield | **Code4rena**          | **9th place** 🎖️|
+
 
 ## 🐞 Bug Bounties
 | № | Date     | Protocol               | Findings     | Program Type | Status / More Details |
@@ -23,12 +25,13 @@ DMs are open for audits and collaborations.
 - [Cantina Public Findings Shows The Critical](https://cantina.xyz/u/ivanalexandur)
 - [X Post – Super DCA](https://x.com/ivan_alexandur/status/1986123614765367462?s=46&t=UKLu6jqPGh38VVdk1er6QQ)
 - [X Post – Index Fun](https://x.com/ivan_alexandur/status/1990865675686957510?s=46&t=UKLu6jqPGh38VVdk1er6QQ)
+- [X Post – GTE Perps and Launchpad](https://x.com/ivan_alexandur/status/2015379449668141318?s=20)
 
 
 ## 🛠️ Focus & Tooling
 - **Focus:** Solidity/EVM, DeFi protocols, protocol invariants  
 - **Methods:** Manual review
-- **Platforms:** Sherlock, Cantina, public bounties
+- **Platforms:** Sherlock, Cantina, Code4rena, public bounties
 
 - ## 📫 Contacts
 - [X](https://x.com/ivanalexandurr)
