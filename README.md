@@ -1,7 +1,7 @@
 # Portfolio:
 Hi, I'm **I-A** a smart contract security researcher. Part of the Whitehat<>[Recon](https://x.com/getreconxyz?s=21&t=UKLu6jqPGh38VVdk1er6QQ) mastermind program.
 
-DMs are open for audits and collaborations.
+DMs are open for collaborations.
 
 ## 🏆 Public Contests 
 
