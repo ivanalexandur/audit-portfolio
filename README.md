@@ -34,7 +34,7 @@ DMs are open for collaborations.
 - **Platforms:** Sherlock, Cantina, Code4rena, public bounties
 
 - ## 📫 Contacts
-- [X](https://x.com/ivanalexandurr)
+- [X](https://x.com/ivan_alexandur)
 - [Telegram](t.me/ivanalexandur)
 - Email:ivan.alexandur@gmail.com 
 
